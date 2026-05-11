@@ -1,0 +1,7 @@
+This project helped me understand how attackers and defenders both use port scanning.
+
+I tested my local machine and identified open ports such as 135, 139, and 445.
+
+At one point my IP changed during testing which caused scan errors, so I had to troubleshoot and rerun the scan.
+
+This project gave me practical understanding of reconnaissance techniques.
