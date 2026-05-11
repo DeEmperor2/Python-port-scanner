@@ -1,0 +1,22 @@
+Project: Python Port Scanner
+
+Objective:
+Build a custom Python tool to identify open ports on a target system.
+
+Tools Used:
+- Python
+- Windows Command Prompt
+
+Open Ports Found:
+- 135 → RPC
+- 139 → NetBIOS
+- 445 → SMB
+
+Findings:
+The scanner successfully identified open Windows service ports that could be leveraged for enumeration in real-world scenarios.
+
+Future Improvements:
+- Multi-threading
+- Banner grabbing
+- Service detection
+- Export scan results
